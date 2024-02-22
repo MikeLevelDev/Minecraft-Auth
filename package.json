@@ -16,7 +16,7 @@
     "yggdrasil",
     "mojang",
     "microsoft oauth"
-  ],
+  ]
   },
   "engines": {
     "node": ">=16"
