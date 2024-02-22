@@ -1,7 +1,4 @@
 # Minecraft-auth
-![npm bundle size](https://img.shields.io/bundlephobia/min/minecraft-auth?label=npm%20size)
-![GitHub top language](https://img.shields.io/github/languages/top/dommilosz/minecraft-auth)
-
 Minecraft-auth es un paquete para autenticar y obtener tokens de acceso a Minecraft.
 
 Tipos de autenticación:
