@@ -17,14 +17,6 @@
     "mojang",
     "microsoft oauth"
   ],
-  "author": "dommilosz",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dommilosz/minecraft-auth.git"
-  },
-  "bugs": {
-    "url": "https://github.com/dommilosz/minecraft-auth/issues"
   },
   "engines": {
     "node": ">=16"
